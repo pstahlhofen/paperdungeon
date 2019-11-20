@@ -1,6 +1,7 @@
 package view;
 
-import sas.*;
+import sas.Circle;
+import sas.Ellipse;
 import sas.Polygon;
 
 import java.awt.*;
@@ -23,6 +24,6 @@ public class Stickman {
     }
 
     public void jump () {
-        
+
     }
 }
